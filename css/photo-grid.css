@@ -47,3 +47,60 @@
     margin-right: 1rem;
     width: 50px;
 }
+
+.photo9-row3-desktop, .photo7-row3-desktop, .photo5-row2-desktop, .photo6-row2-desktop, .photo4-row2-desktop,
+.photo1-row1-desktop, .photo2-row1-desktop, .photo3-row1-desktop, .photo8-row3-desktop
+{
+    max-width: 100%;
+    max-height: 100%;
+    background-size: 100%;
+    background-image: url('../img/photos/desktop-sprite.jpeg');
+}
+
+.photo9-row3-desktop {
+    background-position: 80% 0%;
+    background-size: 150%;
+}
+.photo7-row3-desktop {
+    background-position: 30% 16.763606%;
+    background-size: 155.465116%;
+}
+.photo5-row2-desktop {
+    background-position: 0 31.79669%;
+    background-size: 160.161765%;
+}
+.photo6-row2-desktop {
+    background-position: 0 42.533491%;
+    background-size: 155.343558%;
+}
+.photo4-row2-desktop {
+    background-position: 0 53.270292%;
+    background-size: 200.814126%;
+}
+.photo1-row1-desktop {
+    background-position: 40% 60.918946%;
+    background-size: 220%;
+}
+.photo2-row1-desktop {
+    background-position: 0 72.517906%;
+    background-size: 200%;
+}
+.photo3-row1-desktop {
+    background-position: 0 84.2782%;
+    background-size: 170%;
+}
+.photo8-row3-desktop { background-position: 0 100%; background-size: 150%; }
+
+.photo1-row1-modal, .photo2-row1-modal, .photo3-row1-modal, .photo4-row2-modal, .photo5-row2-modal,
+.photo6-row2-modal, .photo7-row3-modal, .photo8-row3-modal, .photo9-row3-modal
+{ max-width: 100%; background-size: 100%; background-image: url('../img/photos/modal-sprite.jpeg'); }
+
+.photo1-row1-modal { background-position: 0 0%; background-size: 100.639659%; }
+.photo2-row1-modal { background-position: 0 11.766869%; background-size: 100.639659%; }
+.photo3-row1-modal { background-position: 0 23.281193%; background-size: 100.639659%; }
+.photo4-row2-modal { background-position: 0 34.174185%; background-size: 100.639659%; }
+.photo5-row2-modal { background-position: 0 45.890789%; background-size: 100.639659%; }
+.photo6-row2-modal { background-position: 0 57.66826%; background-size: 100.639659%; }
+.photo7-row3-modal { background-position: 0 70.43462%; background-size: 100.639659%; }
+.photo8-row3-modal { background-position: 0 87.397581%; background-size: 100.639659%; }
+.photo9-row3-modal { background-position: 0 99.724214%; background-size: 100.639659%; }

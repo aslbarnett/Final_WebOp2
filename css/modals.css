@@ -16,3 +16,14 @@
     margin-right: 1rem;
     width: 75px;
 }
+
+.avatar1, .avatar2, .avatar3, .avatar5, .avatar6,
+.avatar7
+{ max-width: 100%; background-size: 100%; background-image: url('../img/avatars/avatar-sprite.jpeg'); }
+
+.avatar1 { background-position: 0 0%; background-size: 106.666667%; }
+.avatar2 { background-position: 0 19.753086%; background-size: 106.666667%; }
+.avatar3 { background-position: 0 39.506173%; background-size: 106.666667%; }
+.avatar5 { background-position: 0 59.259259%; background-size: 106.666667%; }
+.avatar6 { background-position: 0 79.012346%; background-size: 106.666667%; }
+.avatar7 { background-position: 0 98.765432%; background-size: 106.666667%; }
